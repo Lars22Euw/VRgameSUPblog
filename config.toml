@@ -1,0 +1,5 @@
+baseURL = "https://Lars22Euw.github.io/VRgameSUPblog"
+languageCode = 'en-us'
+title = 'SUP VR Game - Lars Heublein'
+theme = "terminal" 
+publishDir = "docs"

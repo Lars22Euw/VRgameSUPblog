@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on SUP VR Game - Lars Heublein</title>
+    <link>https://Lars22Euw.github.io/VRgameSUPblog/posts/</link>
+    <description>Recent content in Posts on SUP VR Game - Lars Heublein</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 Feb 2023 23:43:01 +0100</lastBuildDate><atom:link href="https://Lars22Euw.github.io/VRgameSUPblog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evaluation and Conclusion</title>
+      <link>https://Lars22Euw.github.io/VRgameSUPblog/posts/evaluation/</link>
+      <pubDate>Sat, 25 Feb 2023 23:43:01 +0100</pubDate>
+      
+      <guid>https://Lars22Euw.github.io/VRgameSUPblog/posts/evaluation/</guid>
+      <description>This post marks the end of the project.
+To evaluate the project, I had both my roommates join me in playing the game. You can find the video of me playing here.
+The evaluation procedure is the following:
+Welcome the participant and explain him the technique of locomotion Let the user 2 minutes to practice Expose the user to the parkour during 10 minutes, with the instruction to be as fast and accurate as possible.</description>
+      <content>&lt;p&gt;This post marks the end of the project.&lt;/p&gt;
+&lt;p&gt;To evaluate the project, I had both my roommates join me in playing the game.
+You can find the video of me playing &lt;a href=&#34;https://youtu.be/jFmV8KGidQk&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The evaluation procedure is the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Welcome the participant and explain him the technique of locomotion&lt;/li&gt;
+&lt;li&gt;Let the user 2 minutes to practice&lt;/li&gt;
+&lt;li&gt;Expose the user to the parkour during 10 minutes, with the instruction to be as fast and accurate as possible. If we exposed the user for less than 10 minutes, we would not be able to measure simulator sickness, as it takes some exposure time to feel the effects.&lt;/li&gt;
+&lt;li&gt;Give the user a questionnaire&lt;/li&gt;
+&lt;li&gt;Ask them for open comments.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;To compare the results of my implementation with my classmates, each of us collected the following metrics:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;time per round&lt;/li&gt;
+&lt;li&gt;# of collected coins&lt;/li&gt;
+&lt;li&gt;Interaction scores&lt;/li&gt;
+&lt;li&gt;Simulator Sickness using: “On a scale from 1 to 10, how much motion sickness do you perceive right now?”&lt;/li&gt;
+&lt;li&gt;Presence using: “On a scale from 1 to 10, how present did you feel in the virtual world?”&lt;/li&gt;
+&lt;li&gt;Enjoyment using: “On a scale from 1 to 10, how much fun did you have during the task?”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here are the metrics collected while playing:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Users:&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Lars&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;User2&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;User3&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Average&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Time&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;389.1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;dnf&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;426.7&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;407.9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Coins (total)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;13&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;27&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Interaction&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.4, 0.13&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.5, 0.03&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.7, 0.2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.8, 0.36&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Questions:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Users:&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Lars&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;User2&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;User3&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Average&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Sickness: (less is better)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Presence: (more is better)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Fun:	    (more is better)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;In my motivation I described the goal of SUP to allow for an immersive movement accross the water.
+The results show clearly that this locomotion technique does not reduce the chance of cybersickness
+and even increases it for some users. As for immersion, all participants agreed that the implementation of SUP
+lead to a high amount of presence in the virtual world.
+One downside that was pointed out in comments by the users was the surprisingly high amount of effort that
+was required to push oneself forward. It was also pointed out that we can only move on the water surface,
+whereas most games require you to reach places in 3 dimensions.&lt;/p&gt;
+&lt;p&gt;Therefore we can conclude that this technique is not quite at a point where it should be used by everbody but may
+find use in some applications that strive for a high degree of immersion.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Interaction</title>
+      <link>https://Lars22Euw.github.io/VRgameSUPblog/posts/interaction/</link>
+      <pubDate>Sun, 05 Feb 2023 20:16:33 +0100</pubDate>
+      
+      <guid>https://Lars22Euw.github.io/VRgameSUPblog/posts/interaction/</guid>
+      <description>This post will describe concepts I concidered and my actual implementation. They should align with the overall paddling metaphor and fulfill both positioning and rotating an object in space. The parkour has a preset tetris shape that needs to be moved to a random place nearby, while also changing up its rotation.
+My first concept follows an old Wii game, where you have to match a pose in time. This may be fun and remains immersive in the environment, but isn&amp;rsquo;t actually a real interaction.</description>
+      <content>&lt;p&gt;This post will describe concepts I concidered and my actual implementation.
+They should align with the overall paddling metaphor and fulfill both positioning and rotating an object in space.
+The parkour has a preset tetris shape that needs to be moved to a random place nearby, while also changing up its rotation.&lt;/p&gt;
+&lt;p&gt;My first concept follows an old Wii game, where you have to match a pose in time. This may be fun and remains immersive
+in the environment, but isn&amp;rsquo;t actually a real interaction. - Incidentally my classmate with the kayak project went for an
+implementation close to this.&lt;/p&gt;
+&lt;p&gt;The second idea allows the player to hit the T-shape with their paddle and box it around. While sounding fun at first,
+it may not allow for precise turns and have you give up on that sweet perfect score.&lt;/p&gt;
+&lt;p&gt;Last but not least, a magnetic paddle can pick up the T-shape and move and rotate it along a stick.
+There is one issue with this concept: due to the length of the paddle we cannot freely rotate the object among all axis
+unless the player also moves the surfboard around.&lt;/p&gt;
+&lt;p&gt;My implementation follows the last concept by attaching the &amp;ldquo;My Grab&amp;rdquo; script to the paddle.
+When the player holds the hand trigger while the tip of the paddle is inside the object to be picked up, it is glued to
+the paddle. However it is also rotated like the paddle so the pitch roation issue is not resolved.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-C#&#34; data-lang=&#34;C#&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; (isInCollider &amp;amp;&amp;amp; triggerValue &amp;gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;0.95f&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;	selectedObj.transform.parent.transform.parent = &lt;span style=&#34;color:#66d9ef&#34;&gt;this&lt;/span&gt;.transform;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
+    </item>
+    
+    <item>
+      <title>Movement revised - Implementation</title>
+      <link>https://Lars22Euw.github.io/VRgameSUPblog/posts/movement2/</link>
+      <pubDate>Tue, 17 Jan 2023 20:16:33 +0100</pubDate>
+      
+      <guid>https://Lars22Euw.github.io/VRgameSUPblog/posts/movement2/</guid>
+      <description>The updated concept throws away almost all of the previous work. We attach two colliders to the board named left and right as shown bellow. The paddle gets a new script called &amp;ldquo;Row Detection&amp;rdquo;. Whenever its tip enters one of the triggerboxes we store its current location. While the paddle moves within the box, each frame the difference between the old and the current position is computed. It is important to note that we only care about the z-(forward) Direction in the local space of the board.</description>
+      <content>&lt;p&gt;The updated concept throws away almost all of the previous work.
+We attach two colliders to the board named left and right as shown bellow.
+
+  &lt;img src=&#34;https://Lars22Euw.github.io/VRgameSUPblog/img/Board_Triggers.png&#34;  alt=&#34;Board with triggers&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+
+&lt;/p&gt;
+&lt;p&gt;The paddle gets a new script called &amp;ldquo;Row Detection&amp;rdquo;. Whenever its tip enters one of the triggerboxes we store its current location.
+While the paddle moves within the box, each frame the difference between the old and the current position is computed.
+It is important to note that we only care about the z-(forward) Direction in the local space of the board.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-C#&#34; data-lang=&#34;C#&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// calc change in forward position&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; posLocal = gameObject.transform.InverseTransformPoint(pos);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; forward = -(posLocal.z - lastPosLocal.z);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This forward force is added to the corresbonding leftForce or rightForce variable.
+So a row movement on the left side will build up a lot of leftForce and vice versa.&lt;/p&gt;
+&lt;p&gt;Next I will explain how the drag of the water is simulated:&lt;br&gt;
+Since the board is streamlined, sideways drag differs from forward drag.
+We therefore update both indepently.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-C#&#34; data-lang=&#34;C#&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; localVelocity = transform.InverseTransformDirection(rigidbody.velocity);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; newLocalVelocity = &lt;span style=&#34;color:#66d9ef&#34;&gt;new&lt;/span&gt; Vector3(localVelocity.x*&lt;span style=&#34;color:#ae81ff&#34;&gt;0.8f&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;, localVelocity.z*&lt;span style=&#34;color:#ae81ff&#34;&gt;0.99f&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;rigidbody.velocity = transform.TransformDirection(newLocalVelocity);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;rigidbody.AddTorque(-rigidbody.angularVelocity * rotationalDrag);   &lt;span style=&#34;color:#75715e&#34;&gt;// rotates board&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Now that we are done with our bookkeeping we can add force to the board:&lt;br&gt;
+To compute the turn, we get the difference in left and right force.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-C#&#34; data-lang=&#34;C#&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;float&lt;/span&gt; forwardForceToApply = Mathf.Min((leftForce + rightForce), forwardClamp);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;float&lt;/span&gt; rotationForceToApply = ((leftForce - rightForce) * rotationDampening);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;rigidbody.AddRelativeForce(&lt;span style=&#34;color:#66d9ef&#34;&gt;new&lt;/span&gt; Vector3(&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;, forwardForceToApply));
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;rigidbody.AddRelativeTorque(&lt;span style=&#34;color:#66d9ef&#34;&gt;new&lt;/span&gt; Vector3(&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;, rotationForceToApply, &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;));
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Lastly we have to decrease left and right force or otherwise we would keep our momentum from the first stroke forever. &lt;a href=&#34;https://youtu.be/jFmV8KGidQk&#34;&gt;Video demo&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Movement</title>
+      <link>https://Lars22Euw.github.io/VRgameSUPblog/posts/movement/</link>
+      <pubDate>Mon, 21 Nov 2022 20:16:33 +0100</pubDate>
+      
+      <guid>https://Lars22Euw.github.io/VRgameSUPblog/posts/movement/</guid>
+      <description>As detailed in my last post, the idea of locomotion with a paddle is as follows:
+A stroke on one side of the board pushes it forward and gives it a slight turn to the other side.
+To know when a player is paddling, I record the trail of his paddle while a button is pressed. I then compare this line against some pre-recorded strokes for each side. This concept is based on a YouTube tutorial by Valem and uses the library P$ Gesture Recognition.</description>
+      <content>&lt;p&gt;As detailed in my last post, the idea of locomotion with a paddle is as follows:&lt;br&gt;
+A stroke on one side of the board pushes it forward and gives it a slight turn to the other side.&lt;/p&gt;
+&lt;p&gt;To know when a player is paddling, I record the trail of his paddle while a button is pressed.
+I then compare this line against some pre-recorded strokes for each side.
+This concept is based on a YouTube tutorial by Valem and uses the library P$ Gesture Recognition.
+
+  &lt;img src=&#34;https://Lars22Euw.github.io/VRgameSUPblog/img/Row_trail.png&#34;  alt=&#34;row trail&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+
+
+&lt;a href=&#34;https://youtu.be/t0MTpvbi-b4&#34;&gt;Demo 1&lt;/a&gt; - The video shows the movement with the trail visible. The board shows the detected row and its confidence.&lt;/p&gt;
+&lt;p&gt;When we are at least 90% confident in a stroke, we perform the movement by applying force to the boat.
+We also apply some rotational force to turn the boat slightly.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/WKlI-As9nlE&#34;&gt;Demo 2&lt;/a&gt; - In this video, you can see me paddling towards the first turn.&lt;/p&gt;
+&lt;p&gt;In its first iteration this implementation has some flaws:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Forces applied to board are static -&amp;gt; leading to minimal physical movement&lt;/li&gt;
+&lt;li&gt;The board turns but keeps its old direction of momentum&lt;/li&gt;
+&lt;li&gt;When colliding with terrain, chance of tipping over the board without chance of reset for player&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After seeing the kayaking implementation of my classmate, I was inspired to rework my locomotion.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Motivation and Concept</title>
+      <link>https://Lars22Euw.github.io/VRgameSUPblog/posts/concept/</link>
+      <pubDate>Sat, 19 Nov 2022 18:45:57 +0100</pubDate>
+      
+      <guid>https://Lars22Euw.github.io/VRgameSUPblog/posts/concept/</guid>
+      <description>While brainstorming locomotion techniques, my first thoughts went towards the classics like flying and teleporting. I then concidered movement using a board, maybe surfing or skating. Those techniques however would likely be hard to get right, as the board has to tilt below the player and cannot be performed easily whiel standing still. So I was left with a close relative of surfing, &amp;ldquo;Stand Up Paddling&amp;rdquo;. For this sport, the player stands on a large surfboard and uses a long paddle to control the movement.</description>
+      <content>&lt;p&gt;While brainstorming locomotion techniques, my first thoughts went towards the classics like flying and teleporting.
+I then concidered movement using a board, maybe surfing or skating. Those techniques however would likely be hard to get right,
+as the board has to tilt below the player and cannot be performed easily whiel standing still.
+So I was left with a close relative of surfing, &lt;strong&gt;&amp;ldquo;Stand Up Paddling&amp;rdquo;&lt;/strong&gt;.
+
+  &lt;img src=&#34;https://Lars22Euw.github.io/VRgameSUPblog/img/SUP-silhouette.png&#34;  alt=&#34;silhouette of a person doing SUP&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+
+&lt;/p&gt;
+&lt;p&gt;For this sport, the player stands on a large surfboard and uses a long paddle to control the movement.
+The goal with Stand Up Paddling in VR is to have an immersive experience that allows for intuitive locomotion.
+One potential downside may be cybersickness as a high velocity without moving physically could increase its risk.
+As I would later find out, a classmate also implemented a watersport - kayaking.&lt;/p&gt;
+&lt;p&gt;Here are some sketches detailing how forward and backward strokes of the paddle should move the player:
+
+  &lt;img src=&#34;https://Lars22Euw.github.io/VRgameSUPblog/img/paddling.png&#34;  alt=&#34;paddling forward SUP&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+
+
+And backwards:
+
+  &lt;img src=&#34;https://Lars22Euw.github.io/VRgameSUPblog/img/paddling_slow.png&#34;  alt=&#34;paddling backwards SUP&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+
+&lt;/p&gt;
+&lt;p&gt;The next blog entry will detail my progress on implementing this feature.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Interaction in Virtual and Augmented Reality</title>
+      <link>https://Lars22Euw.github.io/VRgameSUPblog/posts/introduction/</link>
+      <pubDate>Mon, 07 Nov 2022 18:07:33 +0100</pubDate>
+      
+      <guid>https://Lars22Euw.github.io/VRgameSUPblog/posts/introduction/</guid>
+      <description>Welcome to my blog. It will detail my progress on my University VR-Project. The goal of the class is to implement a locomotion and interaction technique for a given VR-Parkour. As you can see, the player starts in the bottom left corner of the map. He then has to traverse a slalom section followed by 3 long segments with a bridge in the middle. Each section features a bunch of coins the player can collect and an interaction task.</description>
+      <content>&lt;p&gt;Welcome to my blog. It will detail my progress on my University VR-Project.
+The goal of the class is to implement a locomotion and interaction technique for a given VR-Parkour.
+
+  &lt;img src=&#34;https://Lars22Euw.github.io/VRgameSUPblog/img/default-Parkour.png&#34;  alt=&#34;default parkour img&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;  /&gt;
+
+&lt;/p&gt;
+&lt;p&gt;As you can see, the player starts in the bottom left corner of the map. He then has to traverse a slalom section followed by
+3 long segments with a bridge in the middle. Each section features a bunch of coins the player can collect and an interaction
+task.&lt;/p&gt;
+&lt;p&gt;My next post will detail how I came up with my locomotion technique and what motivates it.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
